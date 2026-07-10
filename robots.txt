@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raydenai.github.io/mosaicage-com-github-pages-8fabe361/sitemap.xml
